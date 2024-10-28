@@ -1,0 +1,33 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Hardhat cache and artifacts
+cache/
+artifacts/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+logs/debug.log
+logs/error.log
+
+# Hardhat configuration and outputs
+coverage/
+typechain/
+dist/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# IDE specific files (VSCode example, adjust for your IDE)
+.vscode/
+
+# Mac specific
+*.DS_Store
